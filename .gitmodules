@@ -1,0 +1,3 @@
+[submodule "vendor/CsTilenginePure"]
+	path = vendor/CsTilenginePure
+	url = https://github.com/vonhoff/CsTilenginePure
