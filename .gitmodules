@@ -1,3 +1,4 @@
 [submodule "vendor/CsTilenginePure"]
+	recurse = true
 	path = vendor/CsTilenginePure
 	url = https://github.com/vonhoff/CsTilenginePure.git
