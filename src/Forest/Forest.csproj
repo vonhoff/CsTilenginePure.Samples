@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\vendor\CsTilenginePure\src\CsTilenginePure.csproj" />
+    <ProjectReference Include="..\..\vendor\CsTilenginePure\CsTilenginePure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

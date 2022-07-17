@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forest", "src\Forest\Forest
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryLayer", "src\QueryLayer\QueryLayer.csproj", "{DC0A7A0F-CD43-4B30-B1B1-E4C3350DFBA0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{CD8DD207-086F-4FDB-A5C0-F1DBCAD3C9DA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vendor", "vendor", "{C3F6DDD7-CA0E-455E-8E8D-3B21D4950647}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsTilenginePure", "vendor\CsTilenginePure\CsTilenginePure.csproj", "{A93F7A3C-FB3A-41E6-9425-D735A8AC99B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,10 @@ Global
 		{DC0A7A0F-CD43-4B30-B1B1-E4C3350DFBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC0A7A0F-CD43-4B30-B1B1-E4C3350DFBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC0A7A0F-CD43-4B30-B1B1-E4C3350DFBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A93F7A3C-FB3A-41E6-9425-D735A8AC99B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93F7A3C-FB3A-41E6-9425-D735A8AC99B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93F7A3C-FB3A-41E6-9425-D735A8AC99B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93F7A3C-FB3A-41E6-9425-D735A8AC99B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +94,7 @@ Global
 		{540DA18F-8F7C-4590-AAE1-64374485D705} = {89D86FEA-0AB4-48F5-93CE-6D0B113A2656}
 		{FA0E8C9F-C8CA-4884-AAD2-47317B0D2D2C} = {89D86FEA-0AB4-48F5-93CE-6D0B113A2656}
 		{DC0A7A0F-CD43-4B30-B1B1-E4C3350DFBA0} = {89D86FEA-0AB4-48F5-93CE-6D0B113A2656}
+		{A93F7A3C-FB3A-41E6-9425-D735A8AC99B4} = {C3F6DDD7-CA0E-455E-8E8D-3B21D4950647}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {32DC305E-4409-484D-B4C7-6AF6BD20E898}
